@@ -6,6 +6,8 @@
 #include <cstring>
 #include "bmplib.cpp"
 #include <cmath>
+#include <vector>
+// updated by Abdleaziz Ali
 
 
 // Program: CS213 - 20220325 - 20220198 - 20221091
